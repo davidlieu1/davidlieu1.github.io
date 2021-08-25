@@ -1,5 +1,5 @@
 body {
-    font-family:Gill Sans, sans-serif;
+    font-family:Verdana, sans-serif;
     color: black;
     background-color: burlywood;
     border: 3px solid black;
@@ -15,7 +15,6 @@ body {
 }
 .container{
     padding: 1%;
-    border: 2px solid ghostwhite;
 }
 .center{
     padding: 1%;
