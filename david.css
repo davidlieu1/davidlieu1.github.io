@@ -1,5 +1,29 @@
-header {
+body {
+    color: black;
+    background-color: burlywood;
+    border: 3px solid black;
+    border-radius:3%;
+}
+#header{
     text-align: center;
-    color: red;
-    border: 3pxx solid green;
+    font-size: large;
+}
+.container{
+    padding: 1%;
+    border: 2px solid ghostwhite;
+}
+.center{
+    padding: 1%;
+    text-align: center;
+}
+.txt{
+    padding: 1%;
+}
+.centerList{
+    padding: 1%;
+    text-align: center;
+}
+/* for links */
+a{
+    cursor:pointer;
 }
