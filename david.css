@@ -7,9 +7,13 @@ body {
 }
 .header{
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
 }
 .header2{
+    text-align: center;
+    font-size: x-large;
+}
+.header3{
     text-align: center;
     font-size: large;
 }
@@ -23,8 +27,7 @@ body {
 .txt{
     padding: 1%;
 }
-.centerList{
-    padding: 1%;
+.links{
     text-align: center;
 }
 /* for links */
