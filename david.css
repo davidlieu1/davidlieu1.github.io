@@ -3,45 +3,28 @@ body {
     color: black;
     background-color: burlywood;
 }
-.img > img{
-    width: auto;
-    height: auto;
+
+.icon-container{
+    display:inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.image-container img {
     max-width: 100%;
-    max-height: 100%;
-    border: 3px solid black;
+    height: auto;
 }
-.img-frame{
-    background-image: url('images/pattern.png');
-    border: 3px solid black;
-    box-shadow: 3px 2px;
+
+.image-container p {
+    margin-top: 5px;
 }
-.header{
-    text-align: center;
-    font-size: xx-large;
-}
-.header2{
-    text-align: center;
-    font-size: x-large;
-}
-.header3{
-    text-align: center;
-    font-size: large;
-}
+
 .container{
     padding: 1%;
 }
 .center{
     padding: 1%;
     text-align: center;
-}
-.txtbox{
-    float:left;
-    padding: 1%;
-    height:auto;
-    width:auto;
-    max-width: 30%;
-    max-height: 30%;
-    border: 3px solid black;
 }
 .links{
     text-align: center;
