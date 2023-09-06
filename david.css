@@ -5,6 +5,7 @@ header {
     text-align: center;
     padding-top: 2em;
     margin: 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 body {
     font-family: Open Sans, sans-serif;
@@ -85,10 +86,15 @@ body {
     line-height: 1.5;
     color:#555;
 }
+.project-description{
+    padding: 15px;
+    height: 50px;
+    display:grid;
+    align-items: center;
+}
 .project-description p {
     margin: 0;
     line-height: 1.4; /* Increase line height for readability */
-    color: #555; /* Use a slightly darker text color for the description */
 }
 .button{
     display:inline-block;
